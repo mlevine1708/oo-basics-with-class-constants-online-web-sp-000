@@ -17,8 +17,6 @@ class Shoe
     BRANDS << brand unless BRANDS.any? {|b| b == brand}
   end
 
-  end
-
 
 
 end
